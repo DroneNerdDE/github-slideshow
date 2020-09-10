@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-First try!
-Use the left arow to go back!
+Common do it!
+Use the left arrow to go back
