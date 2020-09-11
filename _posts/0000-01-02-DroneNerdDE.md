@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Common do it!
+_Common **do** it!_
 Use the left arrow to go back!
